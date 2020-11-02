@@ -13,7 +13,7 @@ payments_statistics(x = "Average.Medicare.Payments", op)
 \item{op}{one of statistics \code{mean}, \code{median}, and \code{sd}}
 }
 \value{
-A descriptive string about the statistics
+A tibble
 }
 \description{
 This function calculates several statistics for payments data by DRG codes based on \code{DRG_data}.
