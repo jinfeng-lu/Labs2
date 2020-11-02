@@ -1,0 +1,11 @@
+Package: DRGsAnalysis
+Type: Package
+Title: Payments Analysis by DRG codes
+Version: 0.1.0
+Author: Jinfeng Lu
+Maintainer: Jinfeng Lu <jil4017@med.cornell.edu>
+Description: This package contains basic analytic functions to explore the DRG_data. The payments_boxplot makes an interactive visualization of the data and payments_statistics calculates the centralization and expansion of the data distribution.
+License: WCM
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
